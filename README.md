@@ -1,6 +1,6 @@
 # Full Stack Movie Review Application
 
-This project is a full-stack movie review application developed as part of a comprehensive video course on the freeCodeCamp.org YouTube channel. The application utilizes MongoDB, Java, Spring Boot, and React to provide a seamless and feature-rich experience for users.
+This project is a full-stack movie review application developed as part of DIY project. The application utilizes MongoDB, Java, Spring Boot, and React to provide a seamless and feature-rich experience for users.
 
 ## Table of Contents
 - [Overview](#overview)
